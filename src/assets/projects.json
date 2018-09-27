@@ -1,39 +1,7 @@
 [
   {
-    "name": "Crawler.io",
-    "imageSource": "",
-    "description": "Plan crawls for your friends",
-    "url": "",
-    "github": "https://github.com/ChrisW321/Crawler.io",
-    "iconAnimation": "tada",
-    "frontEndStack": [
-      "html5-plain",
-      "bootstrap-plain",
-      "css3-plain",
-      "javascript-plain",
-      "react-original"
-    ],
-    "frontEndStackNames": [
-      "HTML5",
-      "React Bootstrap",
-      "CSS3",
-      "JavaScript",
-      "React.js"
-    ],
-    "backEndStack": ["nodejs-plain"],
-    "backEndStackNames": ["Node.js"],
-    "tools": [
-      "visualstudio-plain",
-      "photoshop-plain",
-      "trello-plain",
-      "webpack-plain",
-      "git-plain"
-    ],
-    "toolsNames": ["VSCode", "Photoshop", "Trello", "Webpack", "Git"]
-  },
-  {
     "name": "Open Source Table",
-    "imageSource": "",
+    "imageSource": "../images/fec_showcase.png",
     "description": "MERN-stack app based on a popular online website for people to book restaurants",
     "url": "",
     "github": "https://github.com/FEC-5-Open-Table/Reviews-Module",
@@ -70,7 +38,7 @@
   },
   {
     "name": "VacationDB",
-    "imageSource": "",
+    "imageSource": "../images/sdc_showcase.png",
     "description": "System-design case study load-testing server/database choices, optimizations, node-clustering, and caching",
     "url": "",
     "github": "https://github.com/VacationDB/navigation",
@@ -107,5 +75,37 @@
       "AWS EC2",
       "Git"
     ]
+  },
+  {
+    "name": "Crawler.io",
+    "imageSource": "/Users/chris/code/portfolio/Chris-Wildenradt-Portfolio/public/images/empty_showcase.png",
+    "description": "Plan crawls for your friends",
+    "url": "../images/empty_showcase.png",
+    "github": "https://github.com/ChrisW321/Crawler.io",
+    "iconAnimation": "tada",
+    "frontEndStack": [
+      "html5-plain",
+      "bootstrap-plain",
+      "css3-plain",
+      "javascript-plain",
+      "react-original"
+    ],
+    "frontEndStackNames": [
+      "HTML5",
+      "React Bootstrap",
+      "CSS3",
+      "JavaScript",
+      "React.js"
+    ],
+    "backEndStack": ["nodejs-plain"],
+    "backEndStackNames": ["Node.js"],
+    "tools": [
+      "visualstudio-plain",
+      "photoshop-plain",
+      "trello-plain",
+      "webpack-plain",
+      "git-plain"
+    ],
+    "toolsNames": ["VSCode", "Photoshop", "Trello", "Webpack", "Git"]
   }
 ]

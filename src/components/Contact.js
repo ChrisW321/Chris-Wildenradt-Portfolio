@@ -319,7 +319,7 @@ class Contact extends React.Component {
             I'd love to talk to you! <br /> Please send me an email <br /> and
             I'll get back to you <br /> as soon as possible.
           </p>
-          <h2 className="contact-greeting-footer"> Nick </h2>
+          <h2 className="contact-greeting-footer"> Chris </h2>
         </div>
 
         {/* Contact Information */}
