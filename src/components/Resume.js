@@ -1,7 +1,7 @@
 import React from "react";
 import { Document, Page } from "react-pdf";
 import Ionicon from "react-ionicons";
-import resume from "../assets/Nicholas Vincent-Hill's Resume.pdf";
+import resume from "../assets/_Christopher Wildenradt Resume.pdf";
 import Header from "./Header";
 import NavCard from "./NavCard";
 
