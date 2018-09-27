@@ -3,13 +3,13 @@ module.exports = function(grunt) {
     aws: grunt.file.readJSON("credentials.json"),
     aws_s3: {
       options: {
-        accessKeyId: "<%= aws.AWSAccessKeyId %>",
-        secretAccessKey: "<%= aws.AWSSecretKey %>",
-        region: "us-west-1"
+        accessKeyId: "<%= aws.accessKeyId %>",
+        secretAccessKey: "<%= aws.secretAccessKey %>",
+        region: "us-east-1"
       },
       dist: {
         options: {
-          bucket: "www.nickvh.fun"
+          bucket: "chrisw321-portfolio"
         },
         files: [
           {
