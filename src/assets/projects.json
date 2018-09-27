@@ -1,0 +1,111 @@
+[
+  {
+    "name": "Crawler.io",
+    "imageSource": "",
+    "description": "Plan crawls for your friends",
+    "url": "",
+    "github": "https://github.com/ChrisW321/Crawler.io",
+    "iconAnimation": "tada",
+    "frontEndStack": [
+      "html5-plain",
+      "bootstrap-plain",
+      "css3-plain",
+      "javascript-plain",
+      "react-original"
+    ],
+    "frontEndStackNames": [
+      "HTML5",
+      "React Bootstrap",
+      "CSS3",
+      "JavaScript",
+      "React.js"
+    ],
+    "backEndStack": ["nodejs-plain"],
+    "backEndStackNames": ["Node.js"],
+    "tools": [
+      "visualstudio-plain",
+      "photoshop-plain",
+      "trello-plain",
+      "webpack-plain",
+      "git-plain"
+    ],
+    "toolsNames": ["VSCode", "Photoshop", "Trello", "Webpack", "Git"]
+  },
+  {
+    "name": "Open Source Table",
+    "imageSource": "",
+    "description": "MERN-stack app based on a popular online website for people to book restaurants",
+    "url": "",
+    "github": "https://github.com/FEC-5-Open-Table/Reviews-Module",
+    "iconAnimation": "rubberBand",
+    "frontEndStack": [
+      "html5-plain",
+      "css3-plain",
+      "javascript-plain",
+      "react-original"
+    ],
+    "frontEndStackNames": ["HTML5", "CSS3", "JavaScript", "React.js"],
+    "backEndStack": ["nodejs-plain", "express-original", "mongodb-plain"],
+    "backEndStackNames": ["Node.js", "Express", "MongoDB"],
+    "tools": [
+      "visualstudio-plain",
+      "trello-plain",
+      "babel-plain",
+      "webpack-plain",
+      "grunt-line",
+      "docker-plain",
+      "amazonwebservices-original",
+      "git-plain"
+    ],
+    "toolsNames": [
+      "VSCode",
+      "Trello",
+      "Babel",
+      "Webpack",
+      "Grunt",
+      "Docker",
+      "AWS EC2",
+      "Git"
+    ]
+  },
+  {
+    "name": "VacationDB",
+    "imageSource": "",
+    "description": "System-design case study load-testing server/database choices, optimizations, node-clustering, and caching",
+    "url": "",
+    "github": "https://github.com/VacationDB/navigation",
+    "iconAnimation": "tada",
+    "frontEndStack": [
+      "html5-plain",
+      "css3-plain",
+      "javascript-plain",
+      "react-original"
+    ],
+    "frontEndStackNames": ["HTML5", "CSS3", "JavaScript", "React.js"],
+    "backEndStack": [
+      "nodejs-plain",
+      "express-original",
+      "postgresql-plain",
+      "redis-plain"
+    ],
+    "backEndStackNames": ["Node.js", "Express", "PostgreSQL", "Redis"],
+    "tools": [
+      "visualstudio-plain",
+      "trello-plain",
+      "babel-plain",
+      "webpack-plain",
+      "docker-plain",
+      "amazonwebservices-original",
+      "git-plain"
+    ],
+    "toolsNames": [
+      "VSCode",
+      "Trello",
+      "Babel",
+      "Webpack",
+      "Docker",
+      "AWS EC2",
+      "Git"
+    ]
+  }
+]
