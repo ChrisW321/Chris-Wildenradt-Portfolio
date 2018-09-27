@@ -1,0 +1,126 @@
+/* TABLET */
+
+@media screen and (max-width: 1080px) and (min-width: 600px) {
+  h1 {
+    font-size: 5vw;
+  }
+
+  .home-button {
+    font-size: 2vw;
+  }
+
+  .left-button {
+    font-size: 2vw;
+  }
+
+  .corner {
+    display: none;
+  }
+
+  .project-corner {
+    display: inline;
+    z-index: 10;
+  }
+
+  p {
+    font-size: 3rem;
+  }
+
+  .nav_container {
+    justify-content: center;
+    text-align: center;
+    margin-top: 2vh;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2vh;
+    z-index: 5;
+  }
+
+  .footer {
+    display: inline;
+  }
+
+  .project {
+  }
+
+  .project-image {
+    width: 100%;
+  }
+
+  .project-tech {
+    font-size: 1.5rem;
+  }
+
+  .project-image {
+    width: 50%;
+    margin-top: 3vmin;
+    margin-bottom: 3vmin;
+  }
+
+  .contact-icon:hover {
+    transform: translateY(-10%) scale(1.05);
+  }
+
+  .contact-container {
+    text-align: center;
+    margin: 0;
+    border-width: 0;
+    margin-left: 15vw;
+    margin-right: 15vw;
+  }
+
+  .contact-greeting-container {
+    position: absolute;
+    bottom: 30%;
+    left: 5vw;
+    z-index: 15;
+    text-align: left;
+  }
+
+  .contact-greeting-heading {
+    font-size: 3em;
+    color: var(--color1);
+    opacity: 0.9;
+    margin-bottom: 2vh;
+    background: none;
+  }
+
+  .contact-greeting-body {
+    font-size: 1em;
+    color: var(--color1);
+    opacity: 0.9;
+    line-height: 135%;
+  }
+
+  .contact-greeting-footer {
+    font-size: 2em;
+    color: var(--color1);
+    opacity: 0.9;
+    margin-top: 2vh;
+    margin-right: 0vw;
+    text-align: right;
+  }
+
+  #contact-well-input {
+    margin-top: 2vh;
+    margin-bottom: 1vh;
+  }
+
+  .contact-icon-copy {
+    display: inline;
+    margin-bottom: 2vh;
+  }
+
+  .map-container {
+    display: inline-block;
+  }
+
+  .map {
+    max-height: 50%;
+  }
+
+  .recomendation-container-mobile {
+    text-align: center;
+    margin: 2rem 4rem;
+  }
+}
