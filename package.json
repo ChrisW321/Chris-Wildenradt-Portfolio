@@ -1,8 +1,7 @@
 {
-  "name": "Christopher_Wildenradt",
+  "name": "Christopher-Wildenradt",
   "version": "1.0.0",
   "private": true,
-  "homepage" : "http://ChrisW321.github.io/Portfolio",
   "scripts": {
     "start": "react-scripts start",
     "watch": "concurrently --names \"webpack, stylus\" --prefix name \"npm run start\" \"npm run styles:watch\"",

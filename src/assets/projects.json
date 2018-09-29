@@ -78,7 +78,7 @@
   },
   {
     "name": "Crawler.io",
-    "imageSource": "/Users/chris/code/portfolio/Chris-Wildenradt-Portfolio/public/images/empty_showcase.png",
+    "imageSource": "../images/empty_showcase.png",
     "description": "Plan crawls for your friends",
     "url": "../images/empty_showcase.png",
     "github": "https://github.com/ChrisW321/Crawler.io",
