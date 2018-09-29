@@ -36,8 +36,8 @@ export class GoogleMap extends React.Component {
         google={this.props.google}
         terrain={true}
         initialCenter={{
-          lat: 35.831428,
-          lng: -130.252635
+          lat: 37.731428,
+          lng: -122.152635
         }}
         zoom={9}
         mapTypeControl={false}
